@@ -1,25 +1,34 @@
 {
-  "users":[
+  "users": [
     {
       "id": "1",
       "name": "Juan",
-      "email": "juan@gmail.com",
-      "car_brand": "Wolkswagen",
-      "car_year": "2019",
-      "car_model": "Golf",
-      "car_gas":"no",
-      "insured": "14,300"
-
+      "email": "juan@gmail.com"
     },
     {
       "id": "2",
       "name": "Martha",
-      "email": "martha@gmail.com",
+      "email": "martha@gmail.com"
+    }
+  ],
+  "cars": [
+    {
+      "userId": 1,
+      "id": 1,
       "car_brand": "Wolkswagen",
       "car_year": "2019",
       "car_model": "Golf",
-      "car_gas":"no",
+      "car_gas": "no",
       "insured": "14,300"
+    },
+    {
+      "userId": "2",
+      "id": "2",
+      "car_brand": "Nissan",
+      "car_year": "2020",
+      "car_model": "Golf",
+      "car_gas": "si",
+      "insured": "12,000"
     }
   ]
 }
