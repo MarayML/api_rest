@@ -3,12 +3,23 @@
     {
       "id": "1",
       "name": "Juan",
-      "email": "juan@gmail.com"
+      "email": "juan@gmail.com",
+      "car_brand": "Wolkswagen",
+      "car_year": "2019",
+      "car_model": "Golf",
+      "car_gas":"no",
+      "insured": "14,300"
+
     },
     {
       "id": "2",
       "name": "Martha",
-      "email": "martha@gmail.com"
+      "email": "martha@gmail.com",
+      "car_brand": "Wolkswagen",
+      "car_year": "2019",
+      "car_model": "Golf",
+      "car_gas":"no",
+      "insured": "14,300"
     }
   ]
 }
