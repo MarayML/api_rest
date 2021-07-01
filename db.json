@@ -18,7 +18,7 @@
       "car_brand": "Wolkswagen",
       "car_year": "2019",
       "car_model": "Golf",
-      "car_gas": "no",
+      "car_gas": "Si",
       "insured": 14300
     },
     {
@@ -27,7 +27,7 @@
       "car_brand": "Nissan",
       "car_year": "2020",
       "car_model": "Golf",
-      "car_gas": "si",
+      "car_gas": "No",
       "insured": 12000
     }
   ]
