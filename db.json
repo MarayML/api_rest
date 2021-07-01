@@ -13,8 +13,8 @@
   ],
   "cars": [
     {
-      "userId": 1,
-      "id": 1,
+      "userId": "1",
+      "id": "1",
       "car_brand": "Wolkswagen",
       "car_year": "2019",
       "car_model": "Golf",
