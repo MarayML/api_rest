@@ -19,7 +19,7 @@
       "car_year": "2019",
       "car_model": "Golf",
       "car_gas": "no",
-      "insured": "14,300"
+      "insured": 14300
     },
     {
       "userId": "2",
@@ -28,7 +28,7 @@
       "car_year": "2020",
       "car_model": "Golf",
       "car_gas": "si",
-      "insured": "12,000"
+      "insured": 12000
     }
   ]
 }
